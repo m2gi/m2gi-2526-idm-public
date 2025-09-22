@@ -13,3 +13,5 @@ associées à ce dépot.
 Voir l'onglet "Issues" (menu horizontal en haut de l'écran) puis réaliser
 les différentes "Issues publiques" en commençant par la première issue 
 (#1, en bas).
+
+[enquête](https://forms.gle/xNzwzHDfUhzMYFRf7)
